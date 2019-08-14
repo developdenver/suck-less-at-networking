@@ -64,6 +64,7 @@ Practice with someone saying:
 * I’m a recent graduate of GA and I’m having trouble getting job interviews
 * I’m the founder of a small startup, and I’m struggling to hire devops people 
 * I’m a mid-level dev and I’m happy at my job, but I’m really curious about <insert new technology here> 
+* I just moved to here for a job and I really like Denver. But I had a big network back home and now I feel like I'm starting from scratch.
 
 ## Demonstrate an actionable close to a networking conversation
 
